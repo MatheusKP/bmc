@@ -1,0 +1,45 @@
+# Introduction to modeling and simulation of human movement
+
+### Instructor  
+- [Marcos Duarte](http://pesquisa.ufabc.edu.br/bmclab/people/marcos-duarte/)
+- [Renato Watanabe](pesquisa.ufabc.edu.br/bmclab/pessoal/renato/)
+
+### Time and place  
+- Wednesdays, 19-23h; O-L07 campus São Bernardo do Campo
+
+### Grades
+
+* [Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0vCERbEbcBLo_4fjZh5pl4i6-6Bk8fRCTnqWc0LI0CzTnXq5wSYSz5ojaG5Uda0mSf5xL6k0Ml06c/pubhtml)
+
+## Lecture Schedule
+
+### Lecture 1
+
+[Introduction](MotorControl2019_0.pdf)
+
+ * Control of human movement, modeling and simulation  
+ * Course Information   
+ * [OpenSim software](https://simtk.org/projects/opensim), [Mendeley](https://www.mendeley.com), [Github](https://www.github.com), [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) 
+
+
+ * [Python for scientific computing](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonForScientificComputing.ipynb)
+ * [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonTutorial.ipynb)
+ 
+Tasks (for Lecture 2):
+
+*  Install OpenSim and do the first three tutorials (Help menu).
+
+- Write a Jupyter notebook to compute and plot the acceleration of the particle with displacement data contained in the file [pezzack.txt](http://isbweb.org/data/pezzack/index.html). Additionally, compare the computed acceleration with the true acceleration (contained in the same data).
+ 
+
+
+ Readings (for Lecture 3):
+
+* ENOKA, R. Neuromechanics of human movement (2008), Chapter 6 
+
+ Readings:
+
+ * Shen, H. (2014). Interactive notebooks: Sharing the code. Nature, 5–6. Retrieved from http://europepmc.org/abstract/med/25373681  
+ * Perkel, J. M. (2015). Programming: Pick up Python. Nature, 518(7537), 125–126. https://doi.org/10.1038/518125a
+ 
+ 
